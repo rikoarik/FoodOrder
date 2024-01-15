@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:backgroundTint">@color/design_default_color_primary</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>
